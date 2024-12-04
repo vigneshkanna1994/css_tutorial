@@ -1,0 +1,74 @@
+.Listcls{
+background-color: yellow;
+margin-top: 5%;
+padding: 20px;
+}
+.Listcls h2 {
+  color: black;
+  margin: 5px;
+  padding: 10px;
+  background-color: aqua;
+}
+
+.Listcls h2:hover {
+  background-color: black;
+  color: white;
+  text-decoration: underline;
+  border: 10px solid red;
+}
+
+.loginCls {
+  margin-top: 100px;
+  background-color: orange;
+
+}
+div.loginCls input {
+  margin: 10px;
+}
+div.loginCls button {
+  margin: 10px;
+}
+
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+  width: 100%;
+  height: auto;
+}
+
+th,tr,td {
+  border: 1px solid black;
+  text-align: left;
+  vertical-align: bottom;
+  padding: 10px;
+  font-size: 24px;
+  text-transform: capitalize;
+}
+
+th {
+  text-transform: uppercase;
+  background-color: rgb(187, 0, 255);
+  color: white;
+}
+
+tr:nth-child(even) {
+  background-color: rgb(172, 214, 231);
+}
+tr:nth-child(odd) {
+  background-color: rgb(240, 245, 214);
+}
+tr:hover
+{
+  background-color: green;
+  border: 3px solid greenyellow;
+}
+.student table {
+  width: 50%;
+  margin: 5px;
+}
+.student tr th{
+  width: auto;
+}
+.student td{
+  width: 400px;
+}

@@ -1,0 +1,10 @@
+#divid {
+    background-color: goldenrod;
+    margin: 5% 1%;
+    padding: 10% 10%;
+    color: rgb(196, 5, 244);
+    /* text-align: center; */
+    text-transform: capitalize;
+    text-indent: 10%;
+    text-decoration: underline 3px black;
+}

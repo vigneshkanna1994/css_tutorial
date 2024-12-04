@@ -1,0 +1,53 @@
+export const Table = () => {
+  return (
+    <>
+      <div className="table">
+        <table>
+          <th>name</th>
+          <th>city</th>
+          <th>state</th>
+          <tr>
+            <td>durga</td>
+            <td>madurai</td>
+            <td>tamilnadu</td>
+          </tr>
+          <tr>
+            <td>vigneshkanna</td>
+            <td>madurai</td>
+            <td>tamilnadu</td>
+          </tr>
+          <tr>
+            <td>gayathri</td>
+            <td>madurai</td>
+            <td>tamilnadu</td>
+          </tr>
+          <tr>
+            <td>gayathri</td>
+            <td>madurai</td>
+            <td>tamilnadu</td>
+          </tr>
+          <tr>
+            <td>gayathri</td>
+            <td>madurai</td>
+            <td>tamilnadu</td>
+          </tr>
+          <tr>
+            <td>gayathri</td>
+            <td>madurai</td>
+            <td>tamilnadu</td>
+          </tr>
+          <tr>
+            <td>gayathri</td>
+            <td>madurai</td>
+            <td>tamilnadu</td>
+          </tr>
+          <tr>
+            <td>gayathri</td>
+            <td>madurai</td>
+            <td>tamilnadu</td>
+          </tr>
+        </table>
+      </div>
+    </>
+  );
+};

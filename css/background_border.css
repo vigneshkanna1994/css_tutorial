@@ -1,0 +1,47 @@
+body {
+    background-color: #FDA45A;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+div.login {
+    background-color: rgb(104, 104, 107);
+    height: 30%;
+    width: 30%;
+    margin: auto;
+    border-width: 10px;
+    border-color: black;
+    border-style: inset outset inset outset; */
+    /* background-size: 20%; */
+
+}
+#username {
+    margin: 10%;
+    height: 30px;
+    width: 70%;
+    border-radius: 40px;
+    text-align: center;
+
+}
+#password {
+    margin: 10%;
+    height: 30px;
+    width: 70%;
+    border-radius: 40px;
+    position: relative;
+    text-align: center;
+
+
+}
+#login {
+    margin: 10%;
+    background-color: aquamarine;
+    border-radius: 40px;
+    border-color: black;
+    border-width: 5px;
+    width: 70%;
+    height: 40px;
+    text-align: center;
+
+
+}

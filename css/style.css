@@ -1,0 +1,25 @@
+h3 {
+   font-family: Arial, Helvetica, sans-serif;
+   text-align: center;
+   border-style: inset outset;
+   border-radius: 40px 30px 30px 10px;
+   border-color: black;
+   border-width: 2px;
+   background-color: tomato;
+   flex-direction: row;
+   flex-flow: row;
+   flex-grow: unset;
+
+}
+body  {
+    background-image: url('../images/qtest_logo.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: 20%;
+}
+
+div {
+    background-color: antiquewhite;
+    color: antiquewhite;
+}

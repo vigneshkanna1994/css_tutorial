@@ -1,0 +1,25 @@
+i {
+    background-color: black;
+    color: red;
+    padding: 10px;
+    font-size: 40px;
+}
+.fa-images {
+    /* margin-top: 10px; */
+    color: greenyellow;
+    /* padding: 20px; */
+    background-color: rgb(60, 29, 196);
+    /* border: 3px solid black; */
+    border-radius: 30%;
+
+}
+button {
+    margin-top: 5px;
+    padding: 0;
+    size: 0;
+    background-size: 0;
+}
+.material-symbols-outlined {
+    color: white;
+    background-color:red;
+}
