@@ -15,7 +15,7 @@ export const ArraySample = (args) => {
   );
 };
 
-ArraySample.prototype = {
+ArraySample.propTypes = {
   items: PropTypes.arrayOf(
     PropTypes.shape({
       id: PropTypes.number.isRequired,

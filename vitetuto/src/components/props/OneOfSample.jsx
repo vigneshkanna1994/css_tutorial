@@ -1,6 +1,5 @@
 import PropTypes from "prop-types";
 
-PropTypes
 export const OneOfSample = (args) => {
   const { color } = args;
   return (

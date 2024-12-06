@@ -6,8 +6,7 @@ export const Login = () => {
     <div>
       <div className="loginCls">
         <input type="text" placeholder="enter text" />
-        <button className="btn" onClick={alerted}>show</button>
-        
+        <button className="btn" onClick={alerted}>show</button> 
       </div>
     </div>
   );

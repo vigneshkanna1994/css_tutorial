@@ -14,7 +14,7 @@ export const Student = (arg) => {
   )
 }
 
-Student.prototype= {
+Student.propTypes= {
     name: PropTypes.string,
     arg: PropTypes.number,
     dob: PropTypes.string,

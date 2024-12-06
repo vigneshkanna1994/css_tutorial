@@ -72,3 +72,26 @@ tr:hover
 .student td{
   width: 400px;
 }
+.blockToInline {
+  background-color: black;
+  height: 20px;
+  width: fit-content;
+  padding: 10px;
+
+}
+.blockToInline li {
+  display: inline;
+  background-color: rgba(19, 91, 154, 0.98);
+  color: white;
+  padding: 5px;
+  margin: 5px;
+
+}
+
+.inlineToBlock span{
+  display: block;
+  padding: 5px;
+  margin: 10px;
+  background-color: rgb(174, 238, 23);
+  border: 2px solid black;
+}
